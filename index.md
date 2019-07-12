@@ -3,13 +3,7 @@ layout: default
 
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Welcome to the ASU DevilSec website! DevilSec is a club dedicated to preparing students to enter the cyber security workforce. The club will provide hands on education and training for ethical hacking, network security, penetration testing, network administration, and systems administration.
 
 # Header 1
 
