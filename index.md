@@ -1,6 +1,6 @@
 ---
 layout: default
-site.github.repository_url: https://github.com/josephaorahim/asu_devilsec_website/blob/master/README.md
+
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
