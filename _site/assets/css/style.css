@@ -248,4 +248,7 @@ a {
   zoom: 1; }
 
 a {
-  width: 150px; }
+  width: 130px; }
+
+#downloads {
+  text-align: center; }
