@@ -3,4 +3,5 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-github.repository_url: https://github.com/josephaorahim/asu_devilsec_website
+github:
+  repository_url: https://github.com/josephaorahim/asu_devilsec_website
