@@ -247,6 +247,5 @@ a {
 .cf {
   zoom: 1; }
 
-.btn-discord .icon-discord {
-  opacity: 0.6;
-  background: url("../images/Discord-Logo-White.png") 0 0 no-repeat; }
+a {
+  width: 150px; }
