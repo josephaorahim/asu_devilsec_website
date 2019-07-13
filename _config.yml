@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 github:
-  repository_url: https://github.com/josephaorahim/asu_devilsec_website
+  repository_url: https://github.com/ankur8931/asu-ccdc
 
 twitter:
   url: https://twitter.com/devilsec1
