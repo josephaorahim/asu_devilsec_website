@@ -1,5 +1,9 @@
 # ASU DevilSec website
 
+## Updates coming for use with Docker container
+
+
+
 ### How to host locally
  
 + Follow the instructions to install jekyll [here](https://jekyllrb.com/docs/installation/). 
