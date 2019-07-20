@@ -1,6 +1,6 @@
 # ASU DevilSec website
 
-## How to host locally
+## Host Locally
 
 
 1. `git clone https://github.com/josephaorahim/asu_devilsec_website.git`
