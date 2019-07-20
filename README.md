@@ -2,18 +2,10 @@
 
 ## Updates coming for use with Docker container
 
-
-
-### How to host locally
- 
-+ Follow the instructions to install jekyll [here](https://jekyllrb.com/docs/installation/). 
-+ Clone repository  
-+ `cd` into directory
-+ Run `script/bootstrap` to install the necessary dependencies 
-    + Execution of the script on the Linux/Mac platforms should be simple.
-    + I recommend using git bash to execute the script on Windows.
-+ Run `bundle exec jekyll serve` to start the preview server
-+ Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+1. docker run -it --rm -v <host_dir>:/srv/jekyll -p 4000:4000 jekyll/jekyll bash
+2. Run `script/bootstrap` to install the necessary dependencies 
+3. Run `bundle exec jekyll serve -H 0.0.0.0` to start the preview server 
+4. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
 
 
