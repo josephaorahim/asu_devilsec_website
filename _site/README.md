@@ -1,15 +1,17 @@
 # ASU DevilSec website
 
-### Previewing the theme locally
+## Host Locally
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/hacker`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+1. `git clone https://github.com/josephaorahim/asu_devilsec_website.git`
+2. cd into repo directory
+2. `docker run -it --rm -v <repo_dir_on_host>:/srv/jekyll -p 4000:4000 josephaorahim/asu_devilsec_website bash`
+    1. Windows replace **<repo_dir_on_host>** with `%cd%`
+    2. Linux/Mac replace **<repo_dir_on_host>** `$(pwd)`
+3. Run `bundle exec jekyll serve -H 0` to start the preview server 
+4. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
-### Running tests
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+
+
+
