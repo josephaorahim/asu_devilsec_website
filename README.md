@@ -1,6 +1,6 @@
 # ASU DevilSec website
 
-## Updates coming for use with Docker container
+## How to host locally
 
 
 1. `git clone https://github.com/josephaorahim/asu_devilsec_website.git`
