@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 github:
-  repository_url: https://github.com/ankur8931/asu-ccdc
+  url: https://github.com/ankur8931/asu-ccdc
 
 twitter:
   url: https://twitter.com/devilsec1
@@ -22,4 +22,4 @@ htb:
   url: htb.html
 
 team:
-  url:team.html
+  url: team.html
