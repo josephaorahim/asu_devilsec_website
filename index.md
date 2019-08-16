@@ -11,10 +11,7 @@ Welcome to the ASU DevilSec website! DevilSec is a club dedicated to preparing s
 ***
 <br>
 # Information
-#
-| Meeting Times        | 
-|:-------------|:------------------:|------:|
-|      Fridays 4-5 PM, BYENG 210
+Meeting Times :      Fridays 4-5 PM, BYENG 210
 
 ***
 <br>
