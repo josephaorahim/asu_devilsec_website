@@ -16,8 +16,8 @@ Welcome to the ASU DevilSec website! DevilSec is a club dedicated to preparing s
 |:-------------|:------------------:|------:|
 |      Fridays TBD     | Github | Allen Faost |
 |  |  Discord | Joe Aorahim |
-|            | Twitter      | Ankur Something  |
-|            | Orgsync | Hakim Something|
+|            | WRCCDC      | Ankur Chowdhary |
+|            | Hack the Box | Abdulhakim Sabur|
 
 
 ***
