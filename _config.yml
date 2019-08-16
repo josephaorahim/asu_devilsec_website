@@ -14,3 +14,12 @@ orgsync:
 
 discord:
   url: https://discord.gg/MjNpC2C
+
+wrccdc:
+  url: wrccdc.html
+
+htb:
+  url: htb.html
+
+team:
+  url:team.html
