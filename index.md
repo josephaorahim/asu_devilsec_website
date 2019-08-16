@@ -15,10 +15,6 @@ Welcome to the ASU DevilSec website! DevilSec is a club dedicated to preparing s
 | Meeting Times        | 
 |:-------------|:------------------:|------:|
 |      Fridays 4-5 PM, BYENG 210
-#|  |  Discord | Joe Aorahim |
-#|            | WRCCDC      | Ankur Chowdhary |
-#|            | Hack the Box | Abdulhakim Sabur|
-
 
 ***
 <br>
