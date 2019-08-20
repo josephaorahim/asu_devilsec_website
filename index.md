@@ -18,7 +18,7 @@ Meeting Times :      Fridays 4:15-5:15 PM, BYENG 209
 
 # Events
 <p align="center">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FPhoenix&amp;src=MDkyMXBnOGl1dnNwbmZsZzNhajZqamE5NG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%239E69AF" style="border-width:0;display:block;" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FPhoenix&amp;src=bGlvbGdzYThocTg5ZzE4MXY0ZnYyZ2E1N2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=YXN1LmVkdV9udm9mYmZrMDk4amJhcmRkY2QxOXFiYWluOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%237986CB&amp;color=%234285F4&amp;color=%23E67C73" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>
 ***
 <br>
 # Videos
